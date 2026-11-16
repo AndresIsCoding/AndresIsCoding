@@ -14,7 +14,7 @@ I'm a final-semester **Systems Engineering** student and **Backend & Data Develo
 
 ## 🔎 Focus Areas
 
-- **Data Engineering:** Data Warehousing, ETL Pipelines, Database Design, Data Modeling, Data Quality
+- **Data Engineering:** Data Warehousing, ETL Pipelines, Dimensional Modeling (Star Schema), Database Design, Data Quality, Power BI
 - **Backend Development:** REST APIs, Python, SQL, relational and NoSQL databases, Docker
 - **Artificial Intelligence:** Machine Learning, Neural Networks, Natural Language Processing (NLP)
 - **Quality Assurance:** Test Automation, automated testing in the development workflow
@@ -70,9 +70,13 @@ I'm a final-semester **Systems Engineering** student and **Backend & Data Develo
 
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"> <img alt="Google Cloud Firestore" src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
 
-**Data Engineering:** Data Warehousing · ETL · Database Design · Data Modeling
+**Data Engineering:** Data Warehousing · ETL · Star Schema (Dimensional Modeling) · Database Design · Data Quality · pandas · SQLAlchemy
 
-<img alt="Data Warehousing" src="https://img.shields.io/badge/Data_Warehousing-0A66C2?style=for-the-badge"> <img alt="ETL" src="https://img.shields.io/badge/ETL-0A66C2?style=for-the-badge"> <img alt="Database Design" src="https://img.shields.io/badge/Database_Design-0A66C2?style=for-the-badge"> <img alt="Data Modeling" src="https://img.shields.io/badge/Data_Modeling-0A66C2?style=for-the-badge">
+<img alt="Data Warehousing" src="https://img.shields.io/badge/Data_Warehousing-0A66C2?style=for-the-badge"> <img alt="ETL" src="https://img.shields.io/badge/ETL-0A66C2?style=for-the-badge"> <img alt="Star Schema (Dimensional Modeling)" src="https://img.shields.io/badge/Star_Schema-0A66C2?style=for-the-badge"> <img alt="Database Design" src="https://img.shields.io/badge/Database_Design-0A66C2?style=for-the-badge"> <img alt="Data Quality" src="https://img.shields.io/badge/Data_Quality-0A66C2?style=for-the-badge"> <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white">
+
+**BI & Visualization:** Power BI
+
+<img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black">
 
 **AI & Machine Learning:** Machine Learning · Neural Networks · Natural Language Processing (NLP) <!-- TODO: añade las librerías que usaste -->
 
@@ -81,7 +85,6 @@ I'm a final-semester **Systems Engineering** student and **Backend & Data Develo
 <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
 -->
@@ -121,9 +124,10 @@ I'm a final-semester **Systems Engineering** student and **Backend & Data Develo
 
 ## 📊 GitHub Stats
 
+<!-- Estas tarjetas las genera .github/workflows/profile-summary-cards.yml dentro de este repositorio -->
 <p align="left">
-  <img alt="Andrés's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AndresIsCoding&show_icons=true&hide_border=true&count_private=true" height="165">
-  <img alt="Andrés's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresIsCoding&layout=compact&hide_border=true" height="165">
+  <img alt="Andrés's GitHub stats" src="./profile-summary-card-output/default/3-stats.svg" height="165">
+  <img alt="Andrés's most used languages" src="./profile-summary-card-output/default/2-most-commit-language.svg" height="165">
 </p>
 
 ---
