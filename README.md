@@ -18,7 +18,7 @@ I'm a final-semester **Systems Engineering** student and **Backend & Data Develo
 - **Backend Development:** REST APIs, Python, SQL, relational and NoSQL databases, Docker
 - **Artificial Intelligence:** Machine Learning, Neural Networks, Natural Language Processing (NLP)
 - **Quality Assurance:** Test Automation, automated testing in the development workflow
-- **Ways of working:** Scrum, Agile, Technical Leadership
+- **Ways of working:** Agile methodologies (Scrum and Kanban), Technical Leadership
 
 ---
 
