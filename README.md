@@ -8,7 +8,7 @@ I'm a final-semester **Systems Engineering** student and **Backend & Data Develo
 
 🎓 **Systems Engineering** · **Universidad del Valle** · Graduating: 2027
 
-**🎯 Interested in:** Data Engineering · ETL Pipelines · Backend Development (Python) · Machine Learning & AI · QA Automation
+**🎯 Interested in:** Data Engineering · ETL Pipelines · Backend Development · Machine Learning & AI · QA Automation
 
 ---
 
