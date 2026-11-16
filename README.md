@@ -47,73 +47,64 @@ I'm a final-semester **Systems Engineering** student and **Backend & Data Develo
 -->
 
 ---
-
 ## 🛠️ Tech Stack
 
-### Core
+### 💻 Programming & Backend
 
-**Languages:** Python · SQL
+**Python · SQL · REST APIs**
 
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge">
-
-**Backend:** REST APIs <!-- TODO: añade el framework si usaste uno (FastAPI, Flask, Django) -->
-
-<img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge">
-<!-- Descomenta el que uses:
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"> <img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge">
+<!-- Descomenta el framework o herramienta que uses:
 <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 -->
 
-**Databases:** PostgreSQL · Supabase · Google Cloud Firestore (NoSQL)
+*Familiar with:* JavaScript · HTML5 · CSS
 
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"> <img alt="Google Cloud Firestore" src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white">
 
-**Data Engineering:** Data Warehousing · ETL · Star Schema (Dimensional Modeling) · Database Design · Data Quality · pandas · SQLAlchemy
+### 🗄️ Data Engineering & Databases
 
-<img alt="Data Warehousing" src="https://img.shields.io/badge/Data_Warehousing-0A66C2?style=for-the-badge"> <img alt="ETL" src="https://img.shields.io/badge/ETL-0A66C2?style=for-the-badge"> <img alt="Star Schema (Dimensional Modeling)" src="https://img.shields.io/badge/Star_Schema-0A66C2?style=for-the-badge"> <img alt="Database Design" src="https://img.shields.io/badge/Database_Design-0A66C2?style=for-the-badge"> <img alt="Data Quality" src="https://img.shields.io/badge/Data_Quality-0A66C2?style=for-the-badge"> <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white">
+**PostgreSQL · Supabase · Google Cloud Firestore (NoSQL) · Data Warehousing · ETL · Star Schema (Dimensional Modeling) · Database Design · Data Quality · pandas · SQLAlchemy · Business Intelligence (BI) · Power BI**
 
-**BI & Visualization:** Power BI
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"> <img alt="Google Cloud Firestore" src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"> <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"> <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black">
 
-<img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black">
+<img alt="Data Warehousing" src="https://img.shields.io/badge/Data_Warehousing-0A66C2?style=for-the-badge"> <img alt="ETL" src="https://img.shields.io/badge/ETL-0A66C2?style=for-the-badge"> <img alt="Star Schema (Dimensional Modeling)" src="https://img.shields.io/badge/Star_Schema-0A66C2?style=for-the-badge"> <img alt="Database Design" src="https://img.shields.io/badge/Database_Design-0A66C2?style=for-the-badge"> <img alt="Data Quality" src="https://img.shields.io/badge/Data_Quality-0A66C2?style=for-the-badge"> <img alt="Business Intelligence (BI)" src="https://img.shields.io/badge/Business_Intelligence-0A66C2?style=for-the-badge">
 
-**AI & Machine Learning:** Machine Learning · Neural Networks · Natural Language Processing (NLP) <!-- TODO: añade las librerías que usaste -->
+### 🤖 AI & Machine Learning
+
+**Machine Learning · Neural Networks · Natural Language Processing (NLP)**
 
 <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-6A1B9A?style=for-the-badge"> <img alt="Neural Networks" src="https://img.shields.io/badge/Neural_Networks-6A1B9A?style=for-the-badge"> <img alt="Natural Language Processing (NLP)" src="https://img.shields.io/badge/NLP-6A1B9A?style=for-the-badge">
-<!-- Descomenta las que uses:
+<!-- Descomenta las librerías que uses:
 <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+-->
 <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
--->
 
-**Testing:** Test Automation · Pytest · Selenium · Cross-Browser Testing <!-- TODO: añade la tercera herramienta (¿Playwright?) -->
 
-<img alt="Test Automation" src="https://img.shields.io/badge/Test_Automation-2E7D32?style=for-the-badge"> <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"> <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"> <img alt="Cross-Browser Testing" src="https://img.shields.io/badge/Cross--Browser_Testing-2E7D32?style=for-the-badge">
-<!-- Descomenta si la tercera herramienta fue Playwright:
-<img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge">
--->
+### 🧪 Testing & DevOps
 
-**DevOps & Tools:** Docker · Git · GitHub <!-- TODO: añade otras herramientas DevOps que hayas usado -->
+**Test Automation · Pytest · Selenium · Cross-Browser Testing · Docker · Git · GitHub**
 
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"> <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+<img alt="Test Automation" src="https://img.shields.io/badge/Test_Automation-2E7D32?style=for-the-badge"> <img alt="Cross-Browser Testing" src="https://img.shields.io/badge/Cross--Browser_Testing-2E7D32?style=for-the-badge">
 <!-- Descomenta las que uses:
+<img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge">
 <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 -->
 
-**Methodologies:** Scrum · Agile · Team Leadership
+### 🤝 Methodologies & Leadership
 
-<img alt="Scrum" src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge"> <img alt="Team Leadership" src="https://img.shields.io/badge/Team_Leadership-6DB33F?style=for-the-badge">
+**Agile · Scrum · Kanban · Team Leadership**
 
-### Familiar
-
-**Languages & Web:** JavaScript · HTML5 · CSS
-
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white">
-
+<img alt="Agile" src="https://img.shields.io/badge/Agile-6DB33F?style=for-the-badge"> <img alt="Scrum" src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge"> <img alt="Kanban" src="https://img.shields.io/badge/Kanban-6DB33F?style=for-the-badge"> <img alt="Team Leadership" src="https://img.shields.io/badge/Team_Leadership-6DB33F?style=for-the-badge">
 <!--
   Certificaciones (opcional). Usa siempre el nombre oficial exacto, porque es una palabra clave muy buscada.
 ## 📜 Certifications
