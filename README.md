@@ -51,8 +51,6 @@ I'm a final-semester **Systems Engineering** student and **Backend & Data Develo
 
 ### 💻 Programming & Backend
 
-**Python · SQL · REST APIs**
-
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=flat"> <img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-009688?style=flat">
 <!-- Descomenta el framework o herramienta que uses:
 <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
@@ -67,15 +65,11 @@ I'm a final-semester **Systems Engineering** student and **Backend & Data Develo
 
 ### 🗄️ Data Engineering & Databases
 
-**PostgreSQL · Supabase · Google Cloud Firestore (NoSQL) · Data Warehousing · ETL · Star Schema (Dimensional Modeling) · Database Design · Data Quality · pandas · SQLAlchemy · Business Intelligence (BI) · Power BI**
-
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"> <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white"> <img alt="Google Cloud Firestore" src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=flat&logo=firebase&logoColor=black"> <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"> <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white"> <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logoColor=black">
 
 <img alt="Data Warehousing" src="https://img.shields.io/badge/Data_Warehousing-0A66C2?style=flat"> <img alt="ETL" src="https://img.shields.io/badge/ETL-0A66C2?style=flat"> <img alt="Star Schema (Dimensional Modeling)" src="https://img.shields.io/badge/Star_Schema-0A66C2?style=flat"> <img alt="Database Design" src="https://img.shields.io/badge/Database_Design-0A66C2?style=flat"> <img alt="Data Quality" src="https://img.shields.io/badge/Data_Quality-0A66C2?style=flat"> <img alt="Business Intelligence (BI)" src="https://img.shields.io/badge/Business_Intelligence-0A66C2?style=flat">
 
 ### 🤖 AI & Machine Learning
-
-**Machine Learning · Neural Networks · Natural Language Processing (NLP)**
 
 <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-6A1B9A?style=flat"> <img alt="Neural Networks" src="https://img.shields.io/badge/Neural_Networks-6A1B9A?style=flat"> <img alt="Natural Language Processing (NLP)" src="https://img.shields.io/badge/NLP-6A1B9A?style=flat">
 <!-- Descomenta las librerías que uses:
@@ -89,8 +83,6 @@ I'm a final-semester **Systems Engineering** student and **Backend & Data Develo
 
 ### 🧪 Testing & DevOps
 
-**Test Automation · Pytest · Selenium · Cross-Browser Testing · Docker · Git · GitHub**
-
 <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white"> <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
 
 <img alt="Test Automation" src="https://img.shields.io/badge/Test_Automation-2E7D32?style=flat"> <img alt="Cross-Browser Testing" src="https://img.shields.io/badge/Cross--Browser_Testing-2E7D32?style=flat">
@@ -101,8 +93,6 @@ I'm a final-semester **Systems Engineering** student and **Backend & Data Develo
 -->
 
 ### 🤝 Methodologies & Leadership
-
-**Agile · Scrum · Kanban · Team Leadership**
 
 <img alt="Agile" src="https://img.shields.io/badge/Agile-6DB33F?style=flat"> <img alt="Scrum" src="https://img.shields.io/badge/Scrum-6DB33F?style=flat"> <img alt="Kanban" src="https://img.shields.io/badge/Kanban-6DB33F?style=flat"> <img alt="Team Leadership" src="https://img.shields.io/badge/Team_Leadership-6DB33F?style=flat">
 <!--
