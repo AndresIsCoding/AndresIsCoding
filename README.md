@@ -105,12 +105,12 @@ I'm a final-semester **Systems Engineering** student and **Backend & Data Develo
 
 ## 📊 GitHub Stats
 
-<!-- Estas tarjetas las genera .github/workflows/profile-summary-cards.yml dentro de este repositorio -->
+<!-- Estas tarjetas las genera .github/workflows/profile-summary-cards.yml dentro de este repositorio 
 <p align="left">
   <img alt="Andrés's GitHub stats" src="./profile-summary-card-output/default/3-stats.svg" height="165">
   <img alt="Andrés's most used languages" src="./profile-summary-card-output/default/2-most-commit-language.svg" height="165">
 </p>
-
+-->
 ---
 
 ## 📫 Contact
