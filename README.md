@@ -126,10 +126,12 @@ I'm a final-semester **Systems Engineering** student and **Backend & Data Develo
 ## 📫 Contact
 
 <a href="TODO: https://www.linkedin.com/in/TU-USUARIO"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"></a>
+<!--
 <a href="TODO: https://tu-portafolio.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge"></a>
+-->
 <a href="mailto:TODO: tu-correo@ejemplo.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-**LinkedIn:** TODO · **Portfolio:** TODO · **Email:** TODO
+**LinkedIn:** TODO · **Email:** TODO
 
 ---
 
