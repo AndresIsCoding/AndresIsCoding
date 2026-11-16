@@ -2,7 +2,7 @@
 
 ### Backend & Data Developer · Python & SQL · Machine Learning & NLP
 
-📍 Cali, Colombia &nbsp;·&nbsp; 🌎 Open to **Remote** & **Hybrid** &nbsp;·&nbsp; 🗣️ English / Español
+📍 Cali, Colombia &nbsp;·&nbsp; 🌎 Open to **Remote** & **Hybrid** &nbsp;·&nbsp; 🗣️  Español / English 
 
 I'm a final-semester **Systems Engineering** student and **Backend & Data Developer** focused on **data engineering** and **database design** with **Python** and **SQL**. I'm currently building a **healthcare data warehouse**, designing **ETL processes** that turn raw data into reliable, analytics-ready models. I've also worked with **Machine Learning**, **neural networks** and **Natural Language Processing (NLP)**, and I build **REST APIs** and **automate software testing**. In **Scrum** teams, I've led the team and owned the testing process.
 
