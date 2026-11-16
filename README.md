@@ -53,12 +53,12 @@ I'm a final-semester **Systems Engineering** student and **Backend & Data Develo
 
 **Python · SQL · REST APIs**
 
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"> <img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge">
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=flat"> <img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-009688?style=flat">
 <!-- Descomenta el framework o herramienta que uses:
-<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
+<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white">
+<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
 -->
 
 *Familiar with:* JavaScript · HTML5 · CSS
@@ -69,42 +69,42 @@ I'm a final-semester **Systems Engineering** student and **Backend & Data Develo
 
 **PostgreSQL · Supabase · Google Cloud Firestore (NoSQL) · Data Warehousing · ETL · Star Schema (Dimensional Modeling) · Database Design · Data Quality · pandas · SQLAlchemy · Business Intelligence (BI) · Power BI**
 
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"> <img alt="Google Cloud Firestore" src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"> <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"> <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black">
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"> <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white"> <img alt="Google Cloud Firestore" src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=flat&logo=firebase&logoColor=black"> <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"> <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white"> <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logoColor=black">
 
-<img alt="Data Warehousing" src="https://img.shields.io/badge/Data_Warehousing-0A66C2?style=for-the-badge"> <img alt="ETL" src="https://img.shields.io/badge/ETL-0A66C2?style=for-the-badge"> <img alt="Star Schema (Dimensional Modeling)" src="https://img.shields.io/badge/Star_Schema-0A66C2?style=for-the-badge"> <img alt="Database Design" src="https://img.shields.io/badge/Database_Design-0A66C2?style=for-the-badge"> <img alt="Data Quality" src="https://img.shields.io/badge/Data_Quality-0A66C2?style=for-the-badge"> <img alt="Business Intelligence (BI)" src="https://img.shields.io/badge/Business_Intelligence-0A66C2?style=for-the-badge">
+<img alt="Data Warehousing" src="https://img.shields.io/badge/Data_Warehousing-0A66C2?style=flat"> <img alt="ETL" src="https://img.shields.io/badge/ETL-0A66C2?style=flat"> <img alt="Star Schema (Dimensional Modeling)" src="https://img.shields.io/badge/Star_Schema-0A66C2?style=flat"> <img alt="Database Design" src="https://img.shields.io/badge/Database_Design-0A66C2?style=flat"> <img alt="Data Quality" src="https://img.shields.io/badge/Data_Quality-0A66C2?style=flat"> <img alt="Business Intelligence (BI)" src="https://img.shields.io/badge/Business_Intelligence-0A66C2?style=flat">
 
 ### 🤖 AI & Machine Learning
 
 **Machine Learning · Neural Networks · Natural Language Processing (NLP)**
 
-<img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-6A1B9A?style=for-the-badge"> <img alt="Neural Networks" src="https://img.shields.io/badge/Neural_Networks-6A1B9A?style=for-the-badge"> <img alt="Natural Language Processing (NLP)" src="https://img.shields.io/badge/NLP-6A1B9A?style=for-the-badge">
+<img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-6A1B9A?style=flat"> <img alt="Neural Networks" src="https://img.shields.io/badge/Neural_Networks-6A1B9A?style=flat"> <img alt="Natural Language Processing (NLP)" src="https://img.shields.io/badge/NLP-6A1B9A?style=flat">
 <!-- Descomenta las librerías que uses:
-<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white">
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
 -->
-<img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+<img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
+<img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black">
 
 
 ### 🧪 Testing & DevOps
 
 **Test Automation · Pytest · Selenium · Cross-Browser Testing · Docker · Git · GitHub**
 
-<img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"> <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white"> <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
 
-<img alt="Test Automation" src="https://img.shields.io/badge/Test_Automation-2E7D32?style=for-the-badge"> <img alt="Cross-Browser Testing" src="https://img.shields.io/badge/Cross--Browser_Testing-2E7D32?style=for-the-badge">
+<img alt="Test Automation" src="https://img.shields.io/badge/Test_Automation-2E7D32?style=flat"> <img alt="Cross-Browser Testing" src="https://img.shields.io/badge/Cross--Browser_Testing-2E7D32?style=flat">
 <!-- Descomenta las que uses:
-<img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge">
-<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat">
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
 -->
 
 ### 🤝 Methodologies & Leadership
 
 **Agile · Scrum · Kanban · Team Leadership**
 
-<img alt="Agile" src="https://img.shields.io/badge/Agile-6DB33F?style=for-the-badge"> <img alt="Scrum" src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge"> <img alt="Kanban" src="https://img.shields.io/badge/Kanban-6DB33F?style=for-the-badge"> <img alt="Team Leadership" src="https://img.shields.io/badge/Team_Leadership-6DB33F?style=for-the-badge">
+<img alt="Agile" src="https://img.shields.io/badge/Agile-6DB33F?style=flat"> <img alt="Scrum" src="https://img.shields.io/badge/Scrum-6DB33F?style=flat"> <img alt="Kanban" src="https://img.shields.io/badge/Kanban-6DB33F?style=flat"> <img alt="Team Leadership" src="https://img.shields.io/badge/Team_Leadership-6DB33F?style=flat">
 <!--
   Certificaciones (opcional). Usa siempre el nombre oficial exacto, porque es una palabra clave muy buscada.
 ## 📜 Certifications
@@ -125,11 +125,11 @@ I'm a final-semester **Systems Engineering** student and **Backend & Data Develo
 
 ## 📫 Contact
 
-<a href="TODO: https://www.linkedin.com/in/TU-USUARIO"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"></a>
+<a href="TODO: https://www.linkedin.com/in/TU-USUARIO"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat"></a>
 <!--
-<a href="TODO: https://tu-portafolio.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge"></a>
+<a href="TODO: https://tu-portafolio.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-222222?style=flat"></a>
 -->
-<a href="mailto:TODO: tu-correo@ejemplo.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:TODO: tu-correo@ejemplo.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"></a>
 
 **LinkedIn:** TODO · **Email:** TODO
 
