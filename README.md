@@ -1,4 +1,4 @@
-# Hi, I'm Andrés 👋
+# Hi, I'm Andres 👋
 
 ### Backend & Data Developer · Python & SQL · Machine Learning & NLP
 
