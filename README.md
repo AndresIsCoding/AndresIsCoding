@@ -6,7 +6,7 @@
 
 I'm a final-semester **Systems Engineering** student and **Backend & Data Developer** focused on **data engineering** and **database design** with **Python** and **SQL**. I'm currently building a **healthcare data warehouse**, designing **ETL processes** that turn raw data into reliable, analytics-ready models. I've also worked with **Machine Learning**, **neural networks** and **Natural Language Processing (NLP)**, and I build **REST APIs** and **automate software testing**. In **Scrum** teams, I've led the team and owned the testing process.
 
-🎓 **TODO: Systems Engineering** · **TODO: University** · Graduating TODO: 2027
+🎓 **Systems Engineering** · **Universidad del Valle** · Graduating: 2027
 
 **🎯 Interested in:** Data Engineering · ETL Pipelines · Backend Development (Python) · Machine Learning & AI · QA Automation
 
@@ -147,7 +147,7 @@ I'm a final-semester **Systems Engineering** student and **Backend & Data Develo
 
 📍 Cali, Colombia · 🌎 Disponible para trabajo **remoto** e **híbrido**
 
-Soy estudiante de último semestre de **Ingeniería de Sistemas** en **TODO: Universidad** y **desarrollador backend y de datos**, enfocado en **ingeniería de datos** y **diseño de bases de datos** con **Python** y **SQL**. Actualmente construyo una **bodega de datos (data warehouse) para el sector salud**, donde diseño **procesos ETL** que convierten datos crudos en modelos analíticos confiables. También he trabajado con **Machine Learning**, **redes neuronales** y **Procesamiento de Lenguaje Natural (PLN)**. Además, desarrollo **APIs REST** y **automatizo pruebas de software**. En equipos **Scrum** he liderado el equipo y he sido responsable del proceso de testing.
+Soy estudiante de último semestre de **Ingeniería de Sistemas** en la **Universidad del Valle** y **desarrollador backend y de datos**, enfocado en **ingeniería de datos** y **diseño de bases de datos** con **Python** y **SQL**. Actualmente construyo una **bodega de datos (data warehouse) para el sector salud**, donde diseño **procesos ETL** que convierten datos crudos en modelos analíticos confiables. También he trabajado con **Machine Learning**, **redes neuronales** y **Procesamiento de Lenguaje Natural (PLN)**. Además, desarrollo **APIs REST** y **automatizo pruebas de software**. En equipos **Scrum** he liderado el equipo y he sido responsable del proceso de testing.
 
 **🎯 Áreas de interés:** Ingeniería de Datos · Pipelines ETL · Desarrollo Backend (Python) · Machine Learning e IA · Automatización de Pruebas (QA)
 
